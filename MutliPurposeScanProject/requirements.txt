@@ -1,0 +1,9 @@
+pandas
+scipy
+pillow
+numpy
+scikit-learn 
+pydicom
+cryptography
+opencv-python
+matplotlib
