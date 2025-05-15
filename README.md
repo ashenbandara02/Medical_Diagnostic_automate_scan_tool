@@ -1,5 +1,4 @@
 # Medical_Diagnostic_automate_scan_tool
-Here’s a polished GitHub project description for your **CT Image Analysis & Diagnostic Automation Tool**:
 ### 🖼️ CT Image Analysis & Diagnostic Automation Tool
 
 **Technologies:** Python | OpenCV | NumPy | Pandas | Matplotlib | Tkinter
